@@ -5,9 +5,3 @@
 pip install -r requirements.txt
 
 
-### Convert to exe
-
-```bash
-pyinstaller --noconsole filename.py
-
-
